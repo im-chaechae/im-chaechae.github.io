@@ -12,15 +12,15 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "plum"
+minimal_mistakes_skin    : "air"  # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "ko"
-title                    : "C 프로그래밍"
+title                    : "I'm Chaechae"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "이채빈"
-description              : "시스템 프로그램을 위한 C언어"
+description              : "학교에서 만든 "
 url                      : "https://im-chaechae.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "im-chaechae/im-chaechae.github.io"
