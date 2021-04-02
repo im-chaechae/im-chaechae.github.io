@@ -20,7 +20,7 @@ title                    : "I'm Chaechae"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "이채빈"
-description              : "학교에서 만든 "
+description              : "정보 IT 활동 "
 url                      : "https://im-chaechae.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "im-chaechae/im-chaechae.github.io"
@@ -30,9 +30,9 @@ masthead_title           : # overrides the website title displayed in the masthe
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
-  provider               : # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "custom"
+  provider               : "disqus"
   disqus:
-    shortname            : # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
+    shortname            :im-chaechae-github-io
   discourse:
     server               : # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
   facebook:
@@ -277,6 +277,6 @@ defaults:
       layout: single
       author_profile: true
       read_time: true
-      comments: # true
+      comments: true
       share: true
       related: true
