@@ -95,7 +95,7 @@ analytics:
 # Site Author
 author:
   name             : "이채빈"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           :"/assets/images/1.jpg"
   bio              : "I am cute"
   location         : "대한민국, 서울"
   email            : "imchaechae0110@gmail.com"
