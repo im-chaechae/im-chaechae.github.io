@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "air"
 
 # Site Settings
 locale                   : "ko"
-title                    : "I'm Chaechae"
+title                    : "I'm ChaeChae"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "이채빈"
@@ -96,7 +96,7 @@ analytics:
 author:
   name             : "이채빈"
   avatar           :"/assets/images/1.jpg"
-  bio              : "I am cute"
+  bio              : "김감생할머니김 미래전략실 전략 본부장 이호창 "
   location         : "대한민국, 서울"
   email            : "imchaechae0110@gmail.com"
   links:
